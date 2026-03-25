@@ -5,7 +5,7 @@ The _papi_ module provides a single authentication module:
 
 * `papi:PAPI`: authenticate using the **PAPI** protocol.
 
-This authentication module makes use of an external library, [_phpPoA_](https://forja.rediris.es/projects/phppoa/), in
+This authentication module makes use of an external library, [_phpPoA_](https://github.com/rediris-es/phppoa), in
 order to authenticate users by means of the PAPI protocol. It can therefore be used to bridge between protocols,
 behaving like a PAPI _Point of Access_ or as a _Service Provider_.
 
